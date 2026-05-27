@@ -168,7 +168,7 @@ curl -sS https://sp24.datastructur.es/labs/lab04/lab04.sh | bash
 > 3. 用 `git restore --source=[commitID] password.txt` 恢复它
 > 4. 打开文件看密码！
 > 5. **记得之后恢复回最新版本：** `git restore password.txt`
-> 6. git restore --source=ef58028d829f88b813e21ede5b4eab4e9c035f23 password.txt
+> 6. git restore --source=bea74e22cd496d3617cde24272e48163f6ee1072 password.txt
 
 ### Part 2.2 — 在另一个分支找密码
 
